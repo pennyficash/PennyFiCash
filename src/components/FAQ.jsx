@@ -1,0 +1,1 @@
+export default function FAQ(){return <section className="container" style={{padding:'70px 24px'}}><h2>FAQ</h2><h3>What is PennyFiCash?</h3><p>A smarter financial platform designed around better money decisions.</p><h3>Who is it for?</h3><p>Anyone who wants simple and intelligent financial tools.</p></section>}

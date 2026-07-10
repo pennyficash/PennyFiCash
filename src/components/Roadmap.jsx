@@ -1,0 +1,1 @@
+export default function Roadmap(){const items=['Launch Smart Wallet','Release AI Finance Assistant','Build Global Finance Ecosystem'];return <section className="container" style={{padding:'70px 24px'}}><h2>Roadmap</h2>{items.map((item,index)=><div key={item} style={{margin:'20px 0',background:'#101d33',padding:20,borderRadius:16}}>0{index+1} · {item}</div>)}</section>}

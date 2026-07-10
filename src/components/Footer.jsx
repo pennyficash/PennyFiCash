@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="container" style={{padding:'50px 24px',opacity:.7}}>© 2026 PennyFiCash. Every Penny. Smarter Future.</footer>}

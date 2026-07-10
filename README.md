@@ -1,12 +1,16 @@
 # PennyFiCash
 
-Modern fintech landing page.
+## Every Penny. Smarter Future.
 
-## Vision
+PennyFiCash is a modern fintech experience focused on smarter money management, AI-powered insights and digital finance tools.
 
-Every Penny. Smarter Future.
+## Features
 
-PennyFiCash helps people manage money smarter with simple, secure and intelligent financial tools.
+- Smart Wallet experience
+- AI Finance Assistant
+- Financial insights dashboard
+- Security-first design
+- Responsive fintech landing page
 
 ## Tech Stack
 
@@ -14,3 +18,11 @@ PennyFiCash helps people manage money smarter with simple, secure and intelligen
 - Vite
 - Tailwind CSS
 - Framer Motion
+- Lucide Icons
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```

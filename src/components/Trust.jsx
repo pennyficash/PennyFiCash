@@ -1,0 +1,1 @@
+export default function Trust(){return <section className="container" style={{padding:'70px 24px'}}><h2>Built With Trust</h2><p>Security-first financial technology designed around transparency and user control.</p></section>}

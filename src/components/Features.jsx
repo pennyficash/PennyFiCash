@@ -1,0 +1,1 @@
+export default function Features(){const items=['Smart Money Management','AI Finance Assistant','Bank-Level Security'];return <section className="container"><h2>Why PennyFiCash</h2><div>{items.map(x=><div key={x}><h3>{x}</h3><p>Built for a smarter financial future.</p></div>)}</div></section>}

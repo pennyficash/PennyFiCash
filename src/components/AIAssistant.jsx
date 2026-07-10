@@ -1,0 +1,9 @@
+export default function AIAssistant(){
+ return <section className="container" style={{padding:'70px 24px'}}>
+  <h2>AI Finance Assistant</h2>
+  <p>Your intelligent companion for spending insights, saving goals and smarter decisions.</p>
+  <div style={{background:'#101d33',padding:30,borderRadius:20}}>
+   "You spent 18% less this month. Keep building your future."
+  </div>
+ </section>
+}

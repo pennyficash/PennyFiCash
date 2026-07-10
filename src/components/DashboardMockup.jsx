@@ -1,0 +1,1 @@
+export default function DashboardMockup(){return <section className="container" style={{padding:'70px 24px'}}><div style={{background:'#101d33',borderRadius:24,padding:40}}><h2>Smart Wallet Dashboard</h2><p>Balance Growth + AI Insights + Spending Intelligence</p><div style={{fontSize:40}}>$12,580.00</div></div></section>}

@@ -1,0 +1,1 @@
+export default function Navbar(){return <nav className="container" style={{paddingTop:24,display:'flex',justifyContent:'space-between'}}><strong>PennyFiCash</strong><div>Home&nbsp;&nbsp; Features&nbsp;&nbsp; Security</div></nav>}

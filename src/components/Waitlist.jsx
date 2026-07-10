@@ -1,0 +1,1 @@
+export default function Waitlist(){return <section className="container" style={{padding:'80px 24px',textAlign:'center'}}><h2>Join the PennyFiCash Future</h2><p>Be among the first users shaping smarter finance.</p><button style={{padding:'15px 35px',borderRadius:30}}>Join Waitlist</button></section>}

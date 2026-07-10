@@ -1,0 +1,1 @@
+export default function Security(){return <section className="container" style={{padding:'70px 24px'}}><h2>Security You Can Trust</h2><p>Privacy-first architecture with secure financial technology.</p></section>}
